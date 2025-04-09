@@ -1,0 +1,7 @@
+{
+  "stations": [
+    { "id": 1366, "name": "Römergasse to Friedrich-Engels-Platz" },
+    { "id": 4906, "name": "Stephansplatz to Ottakring" },
+    { "id": 4931, "name": "Ottakring to Simmering" }
+  ]
+}
